@@ -19,10 +19,9 @@ year      = {2019},
 }
 ```
 
-# Content:
+## Content:
 
-- Compiled demo:
-	This demo has been tested under the following environment:
+- Compiled demo - This demo has been tested under the following environment:
 	- Windows 10 x64 equiped with a Nvidia Titan X (Pascal)
 	- Oculus App Last Version tested: 1.35.0.206993
 - Viewer source code
